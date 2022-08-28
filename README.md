@@ -10,6 +10,7 @@
 # Requirements
 - apache
 - apache module `mod_rewrite`
+- php
 
 # Non apache
 If you use different webservers than apache, you need to do this:
